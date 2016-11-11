@@ -1,0 +1,13 @@
+{
+    "name": "ng2-firebase",
+    "version": "0.0.1",
+    "author": {
+        "name": "Dan Crowley",
+        "email": "dan@agilerium.com"
+    },
+    "homepage": "https://github.com/dancrowley251",
+    "repository": {
+        "type:": "git",
+        "url": "https://github.com/dancrowley251/ng2-firebase.git"
+    }
+}
